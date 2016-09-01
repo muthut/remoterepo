@@ -11,6 +11,7 @@ public class NewTest {
   public void f() {
 	  System.out.println("Hello muthu");
 	  System.out.println("githud");
+	  System.out.println("githud123");
   }
   @BeforeTest
   public void m()
